@@ -1,17 +1,19 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&text=Mohammed%20Basheer&fontAlign=50&fontAlignY=35&desc=Enterprise%20Data%2C%20AI%20%26%20Integration%20Engineer&descAlign=50&descAlignY=60" />
-</p>
-
-<p align="center">
   <a href="https://github.com/xanboy">
-    <img src="https://img.shields.io/badge/GitHub-xanboy-181717?logo=github&logoColor=white" />
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-xanboy-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Cloud-GCP-4285F4?logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backend-Node.js-339933?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/DB-PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+  <a href="https://cloud.google.com/">
+    <img alt="Google Cloud" src="https://img.shields.io/badge/Cloud-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  </a>
+  <a href="https://nodejs.org/">
+    <img alt="Node.js" src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/DB-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  </a>
 </p>
 
 # Mohammed Basheer
