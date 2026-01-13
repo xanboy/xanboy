@@ -17,7 +17,7 @@ My work sits at the intersection of **data engineering, applied AI, cloud system
 
 ---
 
-## Selected Projects
+## Selected Work (Public Portfolio)
 
 ### Enterprise Commerce Integration
 **Custom backend integration connecting commerce platforms and analytics systems**
@@ -95,7 +95,8 @@ My work sits at the intersection of **data engineering, applied AI, cloud system
 - Google Cloud SQL (PostgreSQL)  
 - Docker  
 - GitHub  
-- IAM · Cloud Logging  
+- IAM · Cloud Logging
+- Secret management  
 
 ### Data & Analytics
 - SQL  
