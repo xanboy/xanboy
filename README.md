@@ -1,3 +1,18 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&text=Mohammed%20Basheer&fontAlign=50&fontAlignY=35&desc=Enterprise%20Data%2C%20AI%20%26%20Integration%20Engineer&descAlign=50&descAlignY=60" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/xanboy">
+    <img src="https://img.shields.io/badge/GitHub-xanboy-181717?logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Cloud-GCP-4285F4?logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/DB-PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+</p>
 # Mohammed Basheer
 ### Enterprise Data, AI & Integration Engineer
 
@@ -84,6 +99,9 @@ My work sits at the intersection of **enterprise data systems, applied AI, cloud
 ---
 
 ## Technology Stack
+<p>
+  <img height="28" src="https://skillicons.dev/icons?i=nodejs,express,postgres,docker,gcp,github,git,python,opencv,tensorflow,linux" />
+</p>
 
 ### Backend & Integration
 - Node.js · Express.js  
