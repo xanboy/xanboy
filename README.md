@@ -1,153 +1,180 @@
+<h1 align="center">Mohammed Basheer</h1>
+
 <p align="center">
-  <a href="https://github.com/xanboy">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-xanboy-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://cloud.google.com/">
-    <img alt="Google Cloud" src="https://img.shields.io/badge/Cloud-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  </a>
-  <a href="https://nodejs.org/">
-    <img alt="Node.js" src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  </a>
-  <a href="https://www.postgresql.org/">
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/DB-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <b>Enterprise Data, AI & Integration Engineer</b><br/>
+  Cloud Systems · APIs · Analytics
+</p>
+
+<p align="center">
+  I build <b>production-grade integrations</b>, <b>cloud-native backend systems</b>, and <b>AI-enabled analytics</b> that connect enterprise platforms, APIs, and data pipelines in real-world environments.
+</p>
+
+---
+
+<!-- ✅ Clean logo badges (no underlines, no weird separators, official links) -->
+<p align="center">
+  <a href="https://github.com/xanboy" style="text-decoration:none;">
+    <img alt="GitHub" height="34" src="https://cdn.simpleicons.org/github/ffffff" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/" style="text-decoration:none;">
+    <img alt="LinkedIn" height="34" src="https://cdn.simpleicons.org/linkedin/0A66C2" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://nodejs.org/" style="text-decoration:none;">
+    <img alt="Node.js" height="34" src="https://cdn.simpleicons.org/nodedotjs/339933" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://expressjs.com/" style="text-decoration:none;">
+    <img alt="Express" height="34" src="https://cdn.simpleicons.org/express/ffffff" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.postgresql.org/" style="text-decoration:none;">
+    <img alt="PostgreSQL" height="34" src="https://cdn.simpleicons.org/postgresql/4169E1" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.sqlite.org/" style="text-decoration:none;">
+    <img alt="SQLite" height="34" src="https://cdn.simpleicons.org/sqlite/003B57" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://cloud.google.com/run" style="text-decoration:none;">
+    <img alt="Cloud Run" height="34" src="https://cdn.simpleicons.org/googlecloud/4285F4" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://cloud.google.com/sql" style="text-decoration:none;">
+    <img alt="Cloud SQL" height="34" src="https://cdn.simpleicons.org/googlecloud/34A853" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://cloud.google.com/iam" style="text-decoration:none;">
+    <img alt="IAM" height="34" src="https://cdn.simpleicons.org/googlecloud/FBBC05" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://cloud.google.com/secret-manager" style="text-decoration:none;">
+    <img alt="Secret Manager" height="34" src="https://cdn.simpleicons.org/googlecloud/EA4335" />
   </a>
 </p>
 
-# Mohammed Basheer
-### Enterprise Data, AI & Integration Engineer
+<p align="center">
+  <a href="https://www.python.org/" style="text-decoration:none;">
+    <img alt="Python" height="34" src="https://cdn.simpleicons.org/python/3776AB" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.java.com/" style="text-decoration:none;">
+    <img alt="Java" height="34" src="https://cdn.simpleicons.org/openjdk/ffffff" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="text-decoration:none;">
+    <img alt="JavaScript" height="34" src="https://cdn.simpleicons.org/javascript/F7DF1E" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="text-decoration:none;">
+    <img alt="HTML5" height="34" src="https://cdn.simpleicons.org/html5/E34F26" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="text-decoration:none;">
+    <img alt="CSS3" height="34" src="https://cdn.simpleicons.org/css3/1572B6" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://react.dev/" style="text-decoration:none;">
+    <img alt="React" height="34" src="https://cdn.simpleicons.org/react/61DAFB" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://nextjs.org/" style="text-decoration:none;">
+    <img alt="Next.js" height="34" src="https://cdn.simpleicons.org/nextdotjs/ffffff" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://tailwindcss.com/" style="text-decoration:none;">
+    <img alt="Tailwind CSS" height="34" src="https://cdn.simpleicons.org/tailwindcss/06B6D4" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://ui.shadcn.com/" style="text-decoration:none;">
+    <img alt="shadcn/ui" height="34" src="https://cdn.simpleicons.org/shadcnui/ffffff" />
+  </a>
+</p>
 
-I build **production-grade integrations**, **cloud-native backend systems**, and **AI-enabled analytics solutions** that connect enterprise platforms, APIs, and data pipelines in real-world environments.
-
-My work sits at the intersection of **enterprise data systems, applied AI, cloud engineering, and secure system integration**, with a strong focus on reliability, scalability, and real business impact.
+<p align="center">
+  <a href="https://www.docker.com/" style="text-decoration:none;">
+    <img alt="Docker" height="34" src="https://cdn.simpleicons.org/docker/2496ED" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://git-scm.com/" style="text-decoration:none;">
+    <img alt="Git" height="34" src="https://cdn.simpleicons.org/git/F05032" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/features/actions" style="text-decoration:none;">
+    <img alt="GitHub Actions" height="34" src="https://cdn.simpleicons.org/githubactions/2088FF" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.postman.com/" style="text-decoration:none;">
+    <img alt="Postman" height="34" src="https://cdn.simpleicons.org/postman/FF6C37" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linux.org/" style="text-decoration:none;">
+    <img alt="Linux" height="34" src="https://cdn.simpleicons.org/linux/FCC624" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.anaconda.com/" style="text-decoration:none;">
+    <img alt="Anaconda" height="34" src="https://cdn.simpleicons.org/anaconda/44A833" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://jupyter.org/" style="text-decoration:none;">
+    <img alt="Jupyter" height="34" src="https://cdn.simpleicons.org/jupyter/F37626" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://pytest.org/" style="text-decoration:none;">
+    <img alt="pytest" height="34" src="https://cdn.simpleicons.org/pytest/0A9EDC" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.selenium.dev/" style="text-decoration:none;">
+    <img alt="Selenium" height="34" src="https://cdn.simpleicons.org/selenium/43B02A" />
+  </a>
+</p>
 
 ---
 
-## Focus Areas
+## What I do
 
-- Enterprise system integrations (APIs & webhooks)
-- Cloud-native backend engineering
-- AI-enabled analytics for enterprise use-cases
-- Data-driven system design
-- Security-first integration architecture
-
----
-
-## Selected Work (Public Portfolio)
-
-### Enterprise Commerce Integration
-**Custom backend integration connecting commerce platforms and analytics systems**
-
-- Designed secure webhook ingestion pipelines with request validation and auth boundaries  
-- Built API-based data synchronization services across multiple enterprise systems  
-- Implemented cloud-native backend architecture on managed infrastructure  
-- Persisted transactional data for analytics, reconciliation, and reporting  
-- Implemented fault-tolerant delivery using outbox-style retry-safe patterns
-
-**Technologies**
-- Node.js · Express.js  
-- REST APIs · Webhooks  
-- Google Cloud Run  
-- PostgreSQL (Cloud SQL)  
-- Docker · GitHub  
-- IAM · Secrets Management  
+- **Enterprise integrations** (APIs, webhooks, secure ingestion, retry-safe delivery)
+- **Cloud systems** (deployment, secrets, service identity, operational visibility)
+- **Data & analytics** (SQL, data modeling for reporting, business-facing metrics)
+- **Applied AI** (computer vision, time series ML, recommendation systems)
 
 ---
 
-### Emotion-Aware Music Recommendation System
-**Real-time facial emotion recognition with intelligent content recommendations**
+## Selected Projects
 
-- Built CNN-based facial emotion detection pipeline using live webcam input  
-- Implemented anti-spoofing mechanisms to ensure real-human detection  
-- Generated dynamic music recommendations based on detected emotional states
+### Enterprise Commerce Integration (Private)
+**Custom backend integration connecting commerce events to analytics systems**
 
-**Technologies**
-- Python  
-- OpenCV · TensorFlow · Keras  
-- Computer Vision · CNNs  
-- Anti-spoofing concepts  
+- Designed **secure webhook ingestion** (auth boundaries + validation)
+- Implemented **idempotency & dedupe** to prevent duplicate processing
+- Built **retry-safe delivery** using an **outbox pattern**
+- Deployed on **Google Cloud Run** with **Cloud SQL (PostgreSQL)**
+- Used **Secret Manager + IAM** for production secret handling and service identity
+
+**Core stack:** Node.js · Express · PostgreSQL · Cloud Run · Cloud SQL · Secret Manager · IAM
+
+---
+
+### Emotion-Aware Music Recommendation (Computer Vision)
+**Webcam-based facial emotion detection with dynamic music recommendations**
+
+- Built emotion recognition pipeline (CNN-based approach)
+- Implemented **anti-spoofing** concepts to reduce non-live input
+- Generated recommendations based on detected mood
+
+**Core stack:** Python · OpenCV · TensorFlow/Keras
 
 ---
 
 ### Climate Change Prediction (Time Series ML)
-**Machine learning–based climate forecasting using historical temperature data**
+**Forecasting temperature trends using historical global datasets**
 
-- Performed time-series analysis on global temperature datasets  
-- Built predictive models using historical climate trends  
-- Visualized temperature variations across configurable time windows  
-- Worked with real-world datasets sourced from Kaggle
+- Explored and cleaned dataset (Kaggle source)
+- Built time series analysis workflow and forecasting logic
+- Visualized temperature trends across configurable windows (e.g., 5–10 years)
 
-**Technologies**
-- Python  
-- Pandas · NumPy  
-- Matplotlib · Jupyter Notebook  
-- Time Series Analysis  
+**Core stack:** Python · Pandas · NumPy · Matplotlib · Jupyter
 
 ---
 
-### Security & Cryptography Projects
-**Academic and applied work in secure data handling**
+### Security & Cryptography (Academic)
+**Secure data handling and foundational security engineering**
 
-- Implemented image steganography techniques for secure information hiding  
-- Designed applications with security-focused architecture principles  
-- Applied cryptography fundamentals in practical implementations
+- Image steganography for secure information hiding
+- Cryptography fundamentals applied in implementations
+- Security-aware software design practices
 
-**Technologies**
-- Java  
-- Cryptography fundamentals  
-- Secure system design  
+**Core stack:** Java · Cryptography fundamentals
 
 ---
 
-## Technology Stack
-<p>
-  <img height="28" src="https://skillicons.dev/icons?i=nodejs,express,postgres,docker,gcp,github,git,python,opencv,tensorflow,linux" />
-</p>
+## Skills Snapshot
 
-### Backend & Integration
-- Node.js · Express.js  
-- REST APIs · Webhooks  
-- HTTP · JSON
-
-### Cloud & DevOps
-- Google Cloud Run  
-- Google Cloud SQL (PostgreSQL)  
-- Docker  
-- Git · GitHub  
-- IAM · Cloud Logging  
-- Secrets management
-
-### Data & Analytics
-- SQL  
-- Data Analysis  
-- Data Visualization  
-- Enterprise Analytics Systems  
-
-### AI / Machine Learning
-- Python  
-- Applied Machine Learning  
-- Computer Vision  
-- Time Series Analysis  
-
-### Security & Reliability
-- Secure API design (request validation, auth boundaries, secret handling)
-- Webhook verification
-- Secrets hygiene (rotation-safe configuration)
-- Input validation & safe parsing
-- Fault-tolerant delivery patterns
+**Backend & Integration:** Node.js, Express, REST, Webhooks, Idempotency, Outbox Pattern  
+**Cloud:** Cloud Run, Cloud SQL, IAM, Secret Manager, Logging, Docker  
+**Data:** SQL, PostgreSQL, Analytics Modeling, Visualization  
+**AI:** Python, Computer Vision, Time Series Analysis, Applied ML  
+**Testing:** Manual testing, Automation foundations, pytest, Selenium (foundational)
 
 ---
 
-## Background
+## Connect
 
-- Computer Science Engineering graduate
-- Experience across **AI, data systems, cloud engineering, and enterprise integrations**
-- Currently focused on **data-driven and AI-enabled enterprise solutions**
-
----
-
-📫 **Connect**
 - GitHub: https://github.com/xanboy
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/
