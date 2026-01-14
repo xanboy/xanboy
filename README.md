@@ -1,153 +1,148 @@
+<h1 align="center">Mohammed Basheer</h1>
+
+<p align="center">
+  <b>Enterprise Data, AI & Integration Engineer</b><br/>
+  Cloud Systems · APIs · Analytics
+</p>
+
+<p align="center">
+  I build <b>production-grade integrations</b>, <b>cloud-native backend systems</b>, and <b>AI-enabled analytics</b> that connect enterprise platforms, APIs, and data pipelines in real-world environments.
+</p>
+
+---
+
+<!-- Clean identity & platform links -->
 <p align="center">
   <a href="https://github.com/xanboy">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-xanboy-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+    <img alt="GitHub" height="32" src="https://cdn.simpleicons.org/github/ffffff" />
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://cloud.google.com/">
-    <img alt="Google Cloud" src="https://img.shields.io/badge/Cloud-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  </a>
-  <a href="https://nodejs.org/">
-    <img alt="Node.js" src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  </a>
-  <a href="https://www.postgresql.org/">
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/DB-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img alt="LinkedIn" height="32" src="https://cdn.simpleicons.org/linkedin/0A66C2" />
   </a>
 </p>
 
-# Mohammed Basheer
-### Enterprise Data, AI & Integration Engineer
+---
 
-I build **production-grade integrations**, **cloud-native backend systems**, and **AI-enabled analytics solutions** that connect enterprise platforms, APIs, and data pipelines in real-world environments.
+## What I Do
 
-My work sits at the intersection of **enterprise data systems, applied AI, cloud engineering, and secure system integration**, with a strong focus on reliability, scalability, and real business impact.
+- **Enterprise integrations** — APIs, webhooks, secure ingestion, idempotent processing
+- **Cloud systems** — containerized services, secrets, service identity, observability
+- **Data & analytics** — SQL, transactional data modeling, business-facing metrics
+- **Applied AI** — computer vision, time-series ML, recommendation systems
 
 ---
 
-## Focus Areas
+## Selected Projects
 
-- Enterprise system integrations (APIs & webhooks)
-- Cloud-native backend engineering
-- AI-enabled analytics for enterprise use-cases
-- Data-driven system design
-- Security-first integration architecture
+### Enterprise Commerce Integration (Private)
+**Production backend integrating commerce platforms with analytics systems**
 
----
+- Designed **secure webhook ingestion** (request validation + auth boundaries)
+- Implemented **idempotency & deduplication** to prevent duplicate processing
+- Built **retry-safe delivery** using an **outbox pattern**
+- Deployed on **Google Cloud Run** with **Cloud SQL (PostgreSQL)**
+- Used **Secret Manager + IAM** for production-grade secret handling
 
-## Selected Work (Public Portfolio)
-
-### Enterprise Commerce Integration
-**Custom backend integration connecting commerce platforms and analytics systems**
-
-- Designed secure webhook ingestion pipelines with request validation and auth boundaries  
-- Built API-based data synchronization services across multiple enterprise systems  
-- Implemented cloud-native backend architecture on managed infrastructure  
-- Persisted transactional data for analytics, reconciliation, and reporting  
-- Implemented fault-tolerant delivery using outbox-style retry-safe patterns
-
-**Technologies**
-- Node.js · Express.js  
-- REST APIs · Webhooks  
-- Google Cloud Run  
-- PostgreSQL (Cloud SQL)  
-- Docker · GitHub  
-- IAM · Secrets Management  
+**Core stack:**  
+Node.js · Express · PostgreSQL · Google Cloud Run · Cloud SQL · Docker · IAM · Secret Manager
 
 ---
 
 ### Emotion-Aware Music Recommendation System
-**Real-time facial emotion recognition with intelligent content recommendations**
+**Webcam-based facial emotion recognition with intelligent music suggestions**
 
-- Built CNN-based facial emotion detection pipeline using live webcam input  
-- Implemented anti-spoofing mechanisms to ensure real-human detection  
-- Generated dynamic music recommendations based on detected emotional states
+- Built CNN-based emotion detection pipeline using live webcam input
+- Applied **anti-spoofing concepts** to reduce non-live input
+- Generated music recommendations based on detected emotional states
 
-**Technologies**
-- Python  
-- OpenCV · TensorFlow · Keras  
-- Computer Vision · CNNs  
-- Anti-spoofing concepts  
+**Core stack:**  
+Python · OpenCV · TensorFlow · Keras · Computer Vision
 
 ---
 
 ### Climate Change Prediction (Time Series ML)
-**Machine learning–based climate forecasting using historical temperature data**
+**Forecasting global temperature trends using historical datasets**
 
-- Performed time-series analysis on global temperature datasets  
-- Built predictive models using historical climate trends  
-- Visualized temperature variations across configurable time windows  
-- Worked with real-world datasets sourced from Kaggle
+- Explored and cleaned real-world datasets (Kaggle)
+- Built time-series analysis and forecasting workflows
+- Visualized temperature trends across configurable windows (5–10 years)
 
-**Technologies**
-- Python  
-- Pandas · NumPy  
-- Matplotlib · Jupyter Notebook  
-- Time Series Analysis  
+**Core stack:**  
+Python · Pandas · NumPy · Matplotlib · Jupyter Notebook
 
 ---
 
-### Security & Cryptography Projects
-**Academic and applied work in secure data handling**
+### Security & Cryptography (Academic)
+**Foundational work in secure data handling and system design**
 
-- Implemented image steganography techniques for secure information hiding  
-- Designed applications with security-focused architecture principles  
+- Image steganography for secure information hiding
 - Applied cryptography fundamentals in practical implementations
+- Designed applications with security-aware architecture principles
 
-**Technologies**
-- Java  
-- Cryptography fundamentals  
-- Secure system design  
+**Core stack:**  
+Java · Cryptography fundamentals · Secure system design
 
 ---
 
 ## Technology Stack
-<p>
-  <img height="28" src="https://skillicons.dev/icons?i=nodejs,express,postgres,docker,gcp,github,git,python,opencv,tensorflow,linux" />
+
+<p align="center">
+  <img height="34" src="https://cdn.simpleicons.org/nodedotjs/339933" />&nbsp;
+  <img height="34" src="https://cdn.simpleicons.org/express/ffffff" />&nbsp;
+  <img height="34" src="https://cdn.simpleicons.org/postgresql/4169E1" />&nbsp;
+  <img height="34" src="https://cdn.simpleicons.org/sqlite/003B57" />&nbsp;
+  <img height="34" src="https://cdn.simpleicons.org/docker/2496ED" />&nbsp;
+  <img height="34" src="https://cdn.simpleicons.org/googlecloud/4285F4" />&nbsp;
+  <img height="34" src="https://cdn.simpleicons.org/github/ffffff" />&nbsp;
+  <img height="34" src="https://cdn.simpleicons.org/git/F05032" />&nbsp;
+  <img height="34" src="https://cdn.simpleicons.org/githubactions/2088FF" />&nbsp;
+  <img height="34" src="https://cdn.simpleicons.org/python/3776AB" />&nbsp;
+  <img height="34" src="https://cdn.simpleicons.org/opencv/5C3EE8" />&nbsp;
+  <img height="34" src="https://cdn.simpleicons.org/tensorflow/FF6F00" />&nbsp;
+  <img height="34" src="https://cdn.simpleicons.org/java/ffffff" />&nbsp;
+  <img height="34" src="https://cdn.simpleicons.org/javascript/F7DF1E" />&nbsp;
+  <img height="34" src="https://cdn.simpleicons.org/html5/E34F26" />&nbsp;
+  <img height="34" src="https://cdn.simpleicons.org/css3/1572B6" />&nbsp;
+  <img height="34" src="https://cdn.simpleicons.org/react/61DAFB" />&nbsp;
+  <img height="34" src="https://cdn.simpleicons.org/nextdotjs/ffffff" />&nbsp;
+  <img height="34" src="https://cdn.simpleicons.org/tailwindcss/06B6D4" />&nbsp;
+  <img height="34" src="https://cdn.simpleicons.org/linux/FCC624" />&nbsp;
+  <img height="34" src="https://cdn.simpleicons.org/postman/FF6C37" />&nbsp;
+  <img height="34" src="https://cdn.simpleicons.org/jupyter/F37626" />&nbsp;
+  <img height="34" src="https://cdn.simpleicons.org/pytest/0A9EDC" />&nbsp;
+  <img height="34" src="https://cdn.simpleicons.org/selenium/43B02A" />
 </p>
 
-### Backend & Integration
-- Node.js · Express.js  
-- REST APIs · Webhooks  
-- HTTP · JSON
+---
 
-### Cloud & DevOps
-- Google Cloud Run  
-- Google Cloud SQL (PostgreSQL)  
-- Docker  
-- Git · GitHub  
-- IAM · Cloud Logging  
-- Secrets management
+## Skills Snapshot
 
-### Data & Analytics
-- SQL  
-- Data Analysis  
-- Data Visualization  
-- Enterprise Analytics Systems  
+**Backend & Integration**  
+Node.js · Express · REST APIs · Webhooks · Idempotency · Outbox Pattern
 
-### AI / Machine Learning
-- Python  
-- Applied Machine Learning  
-- Computer Vision  
-- Time Series Analysis  
+**Cloud & DevOps**  
+Google Cloud Run · Cloud SQL · Docker · IAM · Secret Manager · Cloud Logging
 
-### Security & Reliability
-- Secure API design (request validation, auth boundaries, secret handling)
-- Webhook verification
-- Secrets hygiene (rotation-safe configuration)
-- Input validation & safe parsing
-- Fault-tolerant delivery patterns
+**Data & Analytics**  
+SQL · PostgreSQL · Analytics Modeling · Data Visualization
+
+**AI / ML**  
+Python · Computer Vision · Time Series Analysis · Applied Machine Learning
+
+**Testing**  
+Manual testing · Automation foundations · pytest · Selenium (foundational)
 
 ---
 
 ## Background
 
-- Computer Science Engineering graduate
-- Experience across **AI, data systems, cloud engineering, and enterprise integrations**
-- Currently focused on **data-driven and AI-enabled enterprise solutions**
+- Computer Science Engineering graduate  
+- Experience across **enterprise data systems, cloud engineering, AI, and integrations**  
+- Currently focused on **AI-enabled analytics and production-grade enterprise systems**
 
 ---
 
 📫 **Connect**
-- GitHub: https://github.com/xanboy
-- LinkedIn: 
+
+- GitHub: https://github.com/xanboy  
+- LinkedIn: https://www.linkedin.com/
