@@ -151,4 +151,3 @@ My work sits at the intersection of **enterprise data systems, applied AI, cloud
 📫 **Connect**
 - GitHub: https://github.com/xanboy
 - LinkedIn: 
-<img width="1192" height="5842" alt="image" src="https://github.com/user-attachments/assets/12de9617-d3cd-4b41-99da-2a052b1b62cb" />
