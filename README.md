@@ -1,3 +1,5 @@
+<!-- Profile README — clean, modern, non-cluttered -->
+
 <h1 align="center">Mohammed Basheer</h1>
 
 <p align="center">
@@ -9,140 +11,129 @@
   I build <b>production-grade integrations</b>, <b>cloud-native backend systems</b>, and <b>AI-enabled analytics</b> that connect enterprise platforms, APIs, and data pipelines in real-world environments.
 </p>
 
----
-
-<!-- Clean identity & platform links -->
 <p align="center">
-  <a href="https://github.com/xanboy">
-    <img alt="GitHub" height="32" src="https://cdn.simpleicons.org/github/ffffff" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/">
-    <img alt="LinkedIn" height="32" src="https://cdn.simpleicons.org/linkedin/0A66C2" />
-  </a>
+  <!-- Social / Contact -->
+  <a href="https://github.com/xanboy"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-xanboy-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:YOUR_EMAIL_HERE"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-333333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
-## What I Do
+## What I do
 
-- **Enterprise integrations** — APIs, webhooks, secure ingestion, idempotent processing
-- **Cloud systems** — containerized services, secrets, service identity, observability
-- **Data & analytics** — SQL, transactional data modeling, business-facing metrics
-- **Applied AI** — computer vision, time-series ML, recommendation systems
+- **Enterprise integrations** (APIs, webhooks, secure ingestion, retry-safe delivery)
+- **Cloud systems** (deployment, secrets, service identity, operational visibility)
+- **Data & analytics** (SQL, modeling for reporting, business-facing metrics)
+- **Applied AI** (computer vision, time series ML, recommendation systems)
 
 ---
 
-## Selected Projects
+## Selected Work
 
 ### Enterprise Commerce Integration (Private)
-**Production backend integrating commerce platforms with analytics systems**
+Custom backend integration connecting commerce events to analytics systems.
 
-- Designed **secure webhook ingestion** (request validation + auth boundaries)
-- Implemented **idempotency & deduplication** to prevent duplicate processing
-- Built **retry-safe delivery** using an **outbox pattern**
+- Designed **secure webhook ingestion** (auth boundaries + validation)
+- Implemented **idempotency & dedupe** to prevent duplicate processing
+- Built **retry-safe delivery** using an **outbox-style pattern**
 - Deployed on **Google Cloud Run** with **Cloud SQL (PostgreSQL)**
-- Used **Secret Manager + IAM** for production-grade secret handling
+- Production secret handling via **Secret Manager + IAM**
 
-**Core stack:**  
-Node.js · Express · PostgreSQL · Google Cloud Run · Cloud SQL · Docker · IAM · Secret Manager
+**Core stack:** Node.js · Express · PostgreSQL · Cloud Run · Cloud SQL · Secret Manager · IAM
+
+> Private repository (available on request / internal demos).
 
 ---
 
-### Emotion-Aware Music Recommendation System
-**Webcam-based facial emotion recognition with intelligent music suggestions**
+### Emotion-Aware Music Recommendation (Computer Vision)
+Webcam-based facial emotion detection with dynamic music recommendations.
 
-- Built CNN-based emotion detection pipeline using live webcam input
-- Applied **anti-spoofing concepts** to reduce non-live input
-- Generated music recommendations based on detected emotional states
+- CNN-based facial emotion detection pipeline (webcam input)
+- Anti-spoofing concepts to reduce non-live input
+- Recommendations based on detected mood
 
-**Core stack:**  
-Python · OpenCV · TensorFlow · Keras · Computer Vision
+**Core stack:** Python · OpenCV · TensorFlow/Keras
 
 ---
 
 ### Climate Change Prediction (Time Series ML)
-**Forecasting global temperature trends using historical datasets**
+Forecasting temperature trends using historical global datasets.
 
-- Explored and cleaned real-world datasets (Kaggle)
-- Built time-series analysis and forecasting workflows
-- Visualized temperature trends across configurable windows (5–10 years)
+- Time-series analysis on global temperature datasets
+- Forecasting logic based on historical trends
+- Visualized trends across configurable windows (5–10 years)
+- Kaggle-based real-world dataset workflow
 
-**Core stack:**  
-Python · Pandas · NumPy · Matplotlib · Jupyter Notebook
+**Core stack:** Python · Pandas · NumPy · Matplotlib · Jupyter
 
 ---
 
 ### Security & Cryptography (Academic)
-**Foundational work in secure data handling and system design**
+Secure data handling and foundational security engineering.
 
 - Image steganography for secure information hiding
-- Applied cryptography fundamentals in practical implementations
-- Designed applications with security-aware architecture principles
+- Cryptography fundamentals applied in implementations
+- Security-aware software design practices
 
-**Core stack:**  
-Java · Cryptography fundamentals · Secure system design
-
----
-
-## Technology Stack
-
-<p align="center">
-  <img height="34" src="https://cdn.simpleicons.org/nodedotjs/339933" />&nbsp;
-  <img height="34" src="https://cdn.simpleicons.org/express/ffffff" />&nbsp;
-  <img height="34" src="https://cdn.simpleicons.org/postgresql/4169E1" />&nbsp;
-  <img height="34" src="https://cdn.simpleicons.org/sqlite/003B57" />&nbsp;
-  <img height="34" src="https://cdn.simpleicons.org/docker/2496ED" />&nbsp;
-  <img height="34" src="https://cdn.simpleicons.org/googlecloud/4285F4" />&nbsp;
-  <img height="34" src="https://cdn.simpleicons.org/github/ffffff" />&nbsp;
-  <img height="34" src="https://cdn.simpleicons.org/git/F05032" />&nbsp;
-  <img height="34" src="https://cdn.simpleicons.org/githubactions/2088FF" />&nbsp;
-  <img height="34" src="https://cdn.simpleicons.org/python/3776AB" />&nbsp;
-  <img height="34" src="https://cdn.simpleicons.org/opencv/5C3EE8" />&nbsp;
-  <img height="34" src="https://cdn.simpleicons.org/tensorflow/FF6F00" />&nbsp;
-  <img height="34" src="https://cdn.simpleicons.org/java/ffffff" />&nbsp;
-  <img height="34" src="https://cdn.simpleicons.org/javascript/F7DF1E" />&nbsp;
-  <img height="34" src="https://cdn.simpleicons.org/html5/E34F26" />&nbsp;
-  <img height="34" src="https://cdn.simpleicons.org/css3/1572B6" />&nbsp;
-  <img height="34" src="https://cdn.simpleicons.org/react/61DAFB" />&nbsp;
-  <img height="34" src="https://cdn.simpleicons.org/nextdotjs/ffffff" />&nbsp;
-  <img height="34" src="https://cdn.simpleicons.org/tailwindcss/06B6D4" />&nbsp;
-  <img height="34" src="https://cdn.simpleicons.org/linux/FCC624" />&nbsp;
-  <img height="34" src="https://cdn.simpleicons.org/postman/FF6C37" />&nbsp;
-  <img height="34" src="https://cdn.simpleicons.org/jupyter/F37626" />&nbsp;
-  <img height="34" src="https://cdn.simpleicons.org/pytest/0A9EDC" />&nbsp;
-  <img height="34" src="https://cdn.simpleicons.org/selenium/43B02A" />
-</p>
+**Core stack:** Java · Cryptography fundamentals
 
 ---
 
-## Skills Snapshot
+## Technology & Tools (compact + complete)
 
-**Backend & Integration**  
-Node.js · Express · REST APIs · Webhooks · Idempotency · Outbox Pattern
+### Backend / Integration
+<a href="https://nodejs.org/"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"></a>
+<a href="https://expressjs.com/"><img alt="Express" src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTTP"><img alt="HTTP" src="https://img.shields.io/badge/HTTP-005571?style=flat-square"></a>
+<a href="https://www.json.org/"><img alt="JSON" src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"></a>
+<a href="https://www.postman.com/"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"></a>
 
-**Cloud & DevOps**  
-Google Cloud Run · Cloud SQL · Docker · IAM · Secret Manager · Cloud Logging
+### Databases
+<a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"></a>
+<a href="https://www.sqlite.org/"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"></a>
 
-**Data & Analytics**  
-SQL · PostgreSQL · Analytics Modeling · Data Visualization
+### Cloud / DevOps
+<a href="https://cloud.google.com/run"><img alt="Cloud Run" src="https://img.shields.io/badge/Cloud%20Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white"></a>
+<a href="https://cloud.google.com/sql"><img alt="Cloud SQL" src="https://img.shields.io/badge/Cloud%20SQL-34A853?style=flat-square&logo=googlecloud&logoColor=white"></a>
+<a href="https://cloud.google.com/secret-manager"><img alt="Secret Manager" src="https://img.shields.io/badge/Secret%20Manager-EA4335?style=flat-square&logo=googlecloud&logoColor=white"></a>
+<a href="https://cloud.google.com/iam"><img alt="IAM" src="https://img.shields.io/badge/IAM-FBBC05?style=flat-square&logo=googlecloud&logoColor=black"></a>
+<a href="https://cloud.google.com/artifact-registry"><img alt="Artifact Registry" src="https://img.shields.io/badge/Artifact%20Registry-1A73E8?style=flat-square&logo=googlecloud&logoColor=white"></a>
+<a href="https://cloud.google.com/logging"><img alt="Cloud Logging" src="https://img.shields.io/badge/Cloud%20Logging-5F6368?style=flat-square&logo=googlecloud&logoColor=white"></a>
+<a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"></a>
+<a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"></a>
+<a href="https://github.com/features/actions"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"></a>
 
-**AI / ML**  
-Python · Computer Vision · Time Series Analysis · Applied Machine Learning
+### Security / Reliability (professional wording)
+<a href="https://owasp.org/www-project-api-security/"><img alt="Secure API Design" src="https://img.shields.io/badge/Secure%20API%20Design-111111?style=flat-square"></a>
+<a href="https://helmetjs.github.io/"><img alt="Helmet" src="https://img.shields.io/badge/Helmet-000000?style=flat-square"></a>
+<a href="https://www.npmjs.com/package/express-rate-limit"><img alt="Rate Limiting" src="https://img.shields.io/badge/Rate%20Limiting-222222?style=flat-square"></a>
+<a href="https://cloud.google.com/security/products/secret-manager"><img alt="Secret Handling" src="https://img.shields.io/badge/Secret%20Handling-333333?style=flat-square"></a>
 
-**Testing**  
-Manual testing · Automation foundations · pytest · Selenium (foundational)
+### Data / AI
+<a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"></a>
+<a href="https://pandas.pydata.org/"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"></a>
+<a href="https://numpy.org/"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"></a>
+<a href="https://matplotlib.org/"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"></a>
+<a href="https://opencv.org/"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"></a>
+<a href="https://www.tensorflow.org/"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"></a>
+
+### Frontend (planned dashboard)
+<a href="https://nextjs.org/"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"></a>
+<a href="https://react.dev/"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000"></a>
+<a href="https://tailwindcss.com/"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"></a>
+<a href="https://ui.shadcn.com/"><img alt="shadcn/ui" src="https://img.shields.io/badge/shadcn%2Fui-111111?style=flat-square"></a>
 
 ---
 
 ## Background
 
-- Computer Science Engineering graduate  
-- Experience across **enterprise data systems, cloud engineering, AI, and integrations**  
-- Currently focused on **AI-enabled analytics and production-grade enterprise systems**
+Computer Science Engineering graduate with hands-on experience across **AI, data systems, cloud engineering, and enterprise integrations** — focused on building scalable systems that ship.
 
 ---
 
-📫 **Connect**
+## Connect
 
 - GitHub: https://github.com/xanboy  
-- LinkedIn: https://www.linkedin.com/
+- LinkedIn: https://www.linkedin.com/  
+- Email: YOUR_EMAIL_HERE
