@@ -9,14 +9,6 @@
   />
 </p>
 
-<!-- 1) MAIN LINE (keep it short so it never clips) -->
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Satoshi&weight=650&size=18&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&width=620&lines=Cloud+Systems+%C2%B7+APIs+%C2%B7+Analytics"
-    alt="Typing"
-  />
-</p>
-
 <!-- 2) MOVE THE 4 ICONS HERE (your “3rd line”) + NO underlines -->
 <p align="center">
   <a href="https://github.com/xanboy" target="_blank" rel="noreferrer">
