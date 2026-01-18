@@ -32,7 +32,7 @@
 <!-- Clean icon links (NO underlines / NO separators) -->
 <p align="center">
   <a href="https://github.com/xanboy"><img alt="GitHub" height="28" src="https://cdn.simpleicons.org/github/ffffff" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="LINKEDIN_URL"><img alt="LinkedIn" height="28" src="https://cdn.simpleicons.org/linkedin/0A66C2" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="[LINKEDIN_URL](https://www.linkedin.com/in/mohammedbasheer25/)"><img alt="LinkedIn" height="28" src="https://cdn.simpleicons.org/linkedin/0A66C2" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:EMAIL"><img alt="Email" height="28" src="https://cdn.simpleicons.org/gmail/EA4335" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="WEBSITE"><img alt="Website" height="28" src="https://cdn.simpleicons.org/vercel/ffffff" /></a>
 </p>
