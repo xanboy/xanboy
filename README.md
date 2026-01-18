@@ -64,7 +64,7 @@
 
 ---
 
-## Tooling & Tech (current + near-future)
+## Tooling & Tech
 
 <p align="center">
   <img
@@ -92,6 +92,6 @@
 ## Connect
 
 - GitHub: https://github.com/xanboy  
-- LinkedIn: LINKEDIN_URL  
-- Email: EMAIL  
+- LinkedIn: [LINKEDIN_URL](https://www.linkedin.com/in/mohammedbasheer25/)  
+- Email: mb8332947@gmail.com  
 - Website (optional): WEBSITE
