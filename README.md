@@ -1,5 +1,5 @@
 <!-- =========================
-     HEADER
+     HERO (clean + no clipping)
 ========================= -->
 
 <p align="center">
@@ -9,43 +9,44 @@
   />
 </p>
 
+<!-- 1) MAIN LINE (keep it short so it never clips) -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Satoshi&weight=600&size=18&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&width=980&lines=Enterprise+Data%2C+AI+%26+Integration+Engineer;Cloud+Systems+%C2%B7+APIs+%C2%B7+Analytics;Event-driven+pipelines+%7C+Secure+webhooks+%7C+Operational+reliability"
-    alt="Typing SVG"
+    src="https://readme-typing-svg.demolab.com?font=Satoshi&weight=650&size=18&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&width=620&lines=Cloud+Systems+%C2%B7+APIs+%C2%B7+Analytics"
+    alt="Typing"
   />
 </p>
 
-<!-- Keep the vibe lines ABOVE the new skills line -->
+<!-- 2) MOVE THE 4 ICONS HERE (your “3rd line”) + NO underlines -->
 <p align="center">
-  <sub><b>Built for production. Designed for scale.</b></sub><br/>
+  <a href="https://github.com/xanboy" target="_blank" rel="noreferrer">
+    <img alt="GitHub" height="26" src="https://cdn.simpleicons.org/github/ffffff" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="LINKEDIN_URL" target="_blank" rel="noreferrer">
+    <img alt="LinkedIn" height="26" src="https://cdn.simpleicons.org/linkedin/ffffff" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:EMAIL" target="_blank" rel="noreferrer">
+    <img alt="Email" height="26" src="https://cdn.simpleicons.org/gmail/ffffff" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+    <img alt="Vercel" height="26" src="https://cdn.simpleicons.org/vercel/ffffff" />
+  </a>
 </p>
 
-<!-- Add your requested line BELOW typing line, same font style (typing-svg) -->
+<!-- 3) EXCHANGE: put the “built for…” line ABOVE the skills line -->
+<p align="center">
+  <sub><b>Built for production. Designed for scale.</b></sub>
+</p>
+
+<!-- 4) EXCHANGE: move your long skills line BELOW (and widen so no clipping) -->
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Satoshi&weight=500&size=14&duration=6000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=980&lines=SQL+(analytics)+%C2%B7+Cloud+Run+/+Cloud+SQL+patterns+%C2%B7+IAM/service+identity+%C2%B7+secrets+management+%C2%B7+pytest/selenium+foundations+%C2%B7+Jupyter/Pandas/NumPy/Matplotlib"
-    alt="Skills line"
+    alt="Stack line"
   />
-</p>
-
-<!-- Clean icon links (no underline) + FIXED LinkedIn icon -->
-<p align="center">
-  <a href="https://github.com/xanboy" target="_blank" rel="noreferrer">
-    <img alt="GitHub" height="28" src="https://cdn.simpleicons.org/github/ffffff" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="[LINKEDIN_URL](https://www.linkedin.com/in/mohammedbasheer25/)" target="_blank" rel="noreferrer">
-    <img alt="LinkedIn" height="28" src="https://cdn.simpleicons.org/linkedin/ffffff" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="mailto:mb8332947@gmail.com" target="_blank" rel="noreferrer">
-    <img alt="Email" height="28" src="https://cdn.simpleicons.org/gmail/ffffff" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="WEBSITE" target="_blank" rel="noreferrer">
-    <img alt="Website" height="28" src="https://cdn.simpleicons.org/vercel/ffffff" />
-  </a>
 </p>
 
 ---
@@ -57,34 +58,46 @@
 
 ---
 
-## Tooling & Tech
+## Tooling & Tech (current + near-future)
 
-<!-- Cooler: dark, icon-only, clickable, official websites -->
+<!-- ONE ROW, no repeated Google icons, no spam -->
 <p align="center">
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img height="32" src="https://cdn.simpleicons.org/nodedotjs/ffffff" /></a>&nbsp;&nbsp;
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img height="32" src="https://cdn.simpleicons.org/express/ffffff" /></a>&nbsp;&nbsp;
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img height="32" src="https://cdn.simpleicons.org/postgresql/ffffff" /></a>&nbsp;&nbsp;
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img height="32" src="https://cdn.simpleicons.org/sqlite/ffffff" /></a>&nbsp;&nbsp;
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img height="32" src="https://cdn.simpleicons.org/googlecloud/ffffff" /></a>&nbsp;&nbsp;
-  <a href="https://cloud.google.com/run" target="_blank" rel="noreferrer"><img height="32" src="https://cdn.simpleicons.org/googlecloud/ffffff" /></a>&nbsp;&nbsp;
-  <a href="https://cloud.google.com/sql" target="_blank" rel="noreferrer"><img height="32" src="https://cdn.simpleicons.org/googlecloud/ffffff" /></a>&nbsp;&nbsp;
-  <a href="https://cloud.google.com/iam" target="_blank" rel="noreferrer"><img height="32" src="https://cdn.simpleicons.org/googlecloud/ffffff" /></a>&nbsp;&nbsp;
-  <a href="https://cloud.google.com/secret-manager" target="_blank" rel="noreferrer"><img height="32" src="https://cdn.simpleicons.org/googlecloud/ffffff" /></a>&nbsp;&nbsp;
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img height="32" src="https://cdn.simpleicons.org/docker/ffffff" /></a>&nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img height="32" src="https://cdn.simpleicons.org/git/ffffff" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img height="32" src="https://cdn.simpleicons.org/githubactions/ffffff" /></a>&nbsp;&nbsp;
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img height="32" src="https://cdn.simpleicons.org/postman/ffffff" /></a>&nbsp;&nbsp;
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img height="32" src="https://cdn.simpleicons.org/python/ffffff" /></a>&nbsp;&nbsp;
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img height="32" src="https://cdn.simpleicons.org/tensorflow/ffffff" /></a>&nbsp;&nbsp;
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img height="32" src="https://cdn.simpleicons.org/opencv/ffffff" /></a>&nbsp;&nbsp;
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img height="32" src="https://cdn.simpleicons.org/jupyter/ffffff" /></a>&nbsp;&nbsp;
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img height="32" src="https://cdn.simpleicons.org/react/ffffff" /></a>&nbsp;&nbsp;
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img height="32" src="https://cdn.simpleicons.org/nextdotjs/ffffff" /></a>&nbsp;&nbsp;
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img height="32" src="https://cdn.simpleicons.org/tailwindcss/ffffff" /></a>&nbsp;&nbsp;
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img height="32" src="https://cdn.simpleicons.org/terraform/ffffff" /></a>
+  <!-- Backend -->
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img height="30" src="https://cdn.simpleicons.org/nodedotjs/ffffff" /></a>&nbsp;&nbsp;
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img height="30" src="https://cdn.simpleicons.org/express/ffffff" /></a>&nbsp;&nbsp;
+
+  <!-- Data -->
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img height="30" src="https://cdn.simpleicons.org/postgresql/ffffff" /></a>&nbsp;&nbsp;
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img height="30" src="https://cdn.simpleicons.org/sqlite/ffffff" /></a>&nbsp;&nbsp;
+
+  <!-- Cloud (single GCP logo only once) -->
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img height="30" src="https://cdn.simpleicons.org/googlecloud/ffffff" /></a>&nbsp;&nbsp;
+
+  <!-- DevOps -->
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img height="30" src="https://cdn.simpleicons.org/docker/ffffff" /></a>&nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img height="30" src="https://cdn.simpleicons.org/git/ffffff" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img height="30" src="https://cdn.simpleicons.org/githubactions/ffffff" /></a>&nbsp;&nbsp;
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img height="30" src="https://cdn.simpleicons.org/postman/ffffff" /></a>&nbsp;&nbsp;
+
+  <!-- AI / Data science -->
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img height="30" src="https://cdn.simpleicons.org/python/ffffff" /></a>&nbsp;&nbsp;
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img height="30" src="https://cdn.simpleicons.org/jupyter/ffffff" /></a>&nbsp;&nbsp;
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img height="30" src="https://cdn.simpleicons.org/opencv/ffffff" /></a>&nbsp;&nbsp;
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img height="30" src="https://cdn.simpleicons.org/tensorflow/ffffff" /></a>&nbsp;&nbsp;
+
+  <!-- Frontend (future) -->
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img height="30" src="https://cdn.simpleicons.org/react/ffffff" /></a>&nbsp;&nbsp;
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img height="30" src="https://cdn.simpleicons.org/nextdotjs/ffffff" /></a>&nbsp;&nbsp;
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img height="30" src="https://cdn.simpleicons.org/tailwindcss/ffffff" /></a>&nbsp;&nbsp;
+
+  <!-- Testing -->
+  <a href="https://pytest.org/" target="_blank" rel="noreferrer"><img height="30" src="https://cdn.simpleicons.org/pytest/ffffff" /></a>&nbsp;&nbsp;
+  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img height="30" src="https://cdn.simpleicons.org/selenium/ffffff" /></a>&nbsp;&nbsp;
+
+  <!-- Infra (future) -->
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img height="30" src="https://cdn.simpleicons.org/terraform/ffffff" /></a>
 </p>
 
-<!-- Move "Stack evolves..." to the TECH STACK footer (as requested) -->
 <p align="center">
   <sub><b>Stack evolves. Architecture principles don’t.</b></sub>
 </p>
