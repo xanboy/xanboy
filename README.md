@@ -1,77 +1,80 @@
-<!-- =======================
-     Mohammed Basheer · GitHub Profile
-     ======================= -->
-
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1220,100:1d4ed8&height=180&section=header&text=Mohammed%20Basheer&fontSize=54&fontColor=ffffff&fontAlignY=55&desc=Enterprise%20Data%2C%20AI%20%26%20Integration%20Engineer%20%20%E2%80%A2%20%20Cloud%20Systems%20%20%E2%80%A2%20%20APIs%20%20%E2%80%A2%20%20Analytics&descAlignY=82&descSize=16"
-    alt="Mohammed Basheer"
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:1e40af&height=240&section=header&text=Mohammed%20Basheer&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn"
   />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=600&color=94A3B8&center=true&vCenter=true&width=600&lines=Enterprise+Data+%26+Integration+Engineering;Cloud+Systems+%7C+APIs+%7C+Analytics;Production-first.+Failure-aware.+Scalable." />
+</p>
+
+---
 
 <p align="center">
   <a href="https://github.com/xanboy">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-xanboy-111827?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-xanboy-020617?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-Contact-374151?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
+---
+
+### Overview
+
+I work on **backend and data systems that sit behind revenue, analytics, and real operations**.
+
+Most of the problems I solve involve:
+- unreliable events  
+- duplicated webhooks  
+- partial data  
+- delayed consistency  
+- systems that must never double-count money  
+
+My focus is **engineering systems that stay correct under pressure** — not demos, not proofs, not slides.
+
+---
+
+### Core Domains
+
+- **Enterprise Integrations** — APIs, webhooks, ingestion pipelines, idempotency, retries  
+- **Cloud Systems** — stateless services, service identity, secrets, observability  
+- **Data & Analytics** — SQL-first modeling, event normalization, reporting accuracy  
+- **Applied AI** — time series forecasting, computer vision pipelines, recommendations  
+
+---
+
+### Technology Stack (Current + Planned)
+
 <p align="center">
-  I’m an <b>Enterprise Data, AI & Integration Engineer</b> focused on building <b>AI-enabled analytics</b> and <b>production-grade integrations</b> for enterprise systems.<br/>
-  Based in <b>Riyadh</b> • originally from <b>Chennai, India</b> • I run on <b>coffee</b>, clean APIs, and <code>idempotency</code>.
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,js,ts,react,nextjs,postgres,mysql,sqlite,docker,gcp,aws,git,github,linux,tailwind&theme=dark&perline=8" />
+</p>
+
+<p align="center">
+  <sub>Stack evolves. Architecture principles don’t.</sub>
 </p>
 
 ---
 
-## What I do (in plain English)
+### Engineering Principles
 
-- **Enterprise integrations** → APIs, webhooks, secure ingestion, idempotency/dedupe, retry-safe delivery  
-- **Cloud systems** → deployment, secrets, service identity/IAM, logs/monitoring, operational visibility  
-- **Data & analytics** → SQL, modeling for reporting, business-facing metrics  
-- **Applied AI** → computer vision, time series ML, recommendation systems  
-
-> If it’s flaky, I make it reliable. If it’s manual, I automate it. If it’s unclear, I add observability.
+- Backend is the **source of truth**
+- Events must be **replayable**
+- Dedupe is not optional
+- Observability beats assumptions
+- Systems should degrade gracefully, not collapse loudly
 
 ---
 
-## Tech Stack (single clean row)
+### Live Activity
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=nodejs,express,js,python,java,postgres,sqlite,docker,gcp,git,githubactions,postman,linux,html,css,react,nextjs,tailwind"
-    alt="Tech Stack"
-  />
+  <img src="https://github.com/xanboy/xanboy/raw/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-## Live Activity
-
-<!-- GitHub Stats (fixed: correct params + stable endpoint) -->
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=xanboy&show_icons=true&include_all_commits=true&rank_icon=github"
-    alt="GitHub Stats"
-  />
+  <sub>Built for production. Designed for scale.</sub>
 </p>
-
-<!-- Contribution Snake (fixed: correct raw URLs + dark mode support) -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xanboy/xanboy/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/xanboy/xanboy/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
----
-
-## Quick links
-
-- GitHub: https://github.com/xanboy  
-- LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN/  
-- Email: YOUR_EMAIL@gmail.com
