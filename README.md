@@ -9,6 +9,14 @@
   />
 </p>
 
+<!-- 1) MAIN LINE (keep it short so it never clips) -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Satoshi&weight=650&size=18&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&width=620&lines=Cloud+Systems+%C2%B7+APIs+%C2%B7+Analytics"
+    alt="Typing"
+  />
+</p>
+
 <!-- 2) MOVE THE 4 ICONS HERE (your “3rd line”) + NO underlines -->
 <p align="center">
   <a href="https://github.com/xanboy" target="_blank" rel="noreferrer">
@@ -31,14 +39,6 @@
 <!-- 3) EXCHANGE: put the “built for…” line ABOVE the skills line -->
 <p align="center">
   <sub><b>Built for production. Designed for scale.</b></sub>
-</p>
-
-<!-- 4) EXCHANGE: move your long skills line BELOW (and widen so no clipping) -->
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Satoshi&weight=500&size=14&duration=6000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=980&lines=SQL+(analytics)+%C2%B7+Cloud+Run+/+Cloud+SQL+patterns+%C2%B7+IAM/service+identity+%C2%B7+secrets+management+%C2%B7+pytest/selenium+foundations+%C2%B7+Jupyter/Pandas/NumPy/Matplotlib"
-    alt="Stack line"
-  />
 </p>
 
 ---
