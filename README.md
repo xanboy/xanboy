@@ -1,125 +1,93 @@
-<!-- HERO -->
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:0B5FFF&height=160&section=header&text=Mohammed%20Basheer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
-    alt="header"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:1e3a8a&height=200&section=header&text=Mohammed%20Basheer&fontSize=42&fontColor=ffffff&fontAlignY=45&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <b>Enterprise Data, AI & Integration Engineer</b><br/>
-  Cloud Systems · APIs · Analytics
+  Enterprise data · backend systems · integrations that survive production
 </p>
+
+---
+
+### Systems, not demos.
+
+I design and build **backend systems that sit between money, data, and reality**.
+
+The work usually lives where:
+- webhooks arrive late, duplicated, or malformed  
+- APIs disagree about truth  
+- retries are mandatory, not optional  
+- failures are expected, observable, and recoverable  
+
+I’m interested in **what happens after “it works”** —  
+when systems scale, edge cases appear, and assumptions break.
+
+---
+
+### What I actually do
+
+I spend most of my time thinking about:
+
+- **Event-driven integrations**  
+  Idempotency, deduplication, replayability, eventual consistency
+
+- **Cloud-native backends**  
+  Stateless services, service identity, secret boundaries, infra-aware design
+
+- **Data flows**  
+  Turning operational events into analytics-ready facts without lying
+
+- **Applied ML (when it earns its keep)**  
+  Time-series forecasting, computer vision pipelines, recommendation logic
+
+No buzzwords.  
+No fragile pipelines.  
+No “just retry it” without knowing why.
+
+---
+
+### Tools I reach for
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&size=14&pause=1200&color=9CA3AF&center=true&vCenter=true&width=700&lines=AI-enabled+analytics+%E2%80%A2+Production-grade+integrations+%E2%80%A2+Cloud-native+systems;Secure+API+design+%E2%80%A2+Webhooks+%E2%80%A2+Data+pipelines+%E2%80%A2+Operational+reliability"
-    alt="typing"
-  />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,postgres,docker,gcp,git,github,linux,java,js&perline=6" />
 </p>
 
-<!-- SOCIALS (clean, no underline issues) -->
+The stack changes.  
+The principles don’t.
+
+---
+
+### How I think about engineering
+
+- Backend is the **source of truth**
+- Observability beats optimism
+- Security boundaries are part of the design, not a checklist
+- Boring systems are a compliment
+- If it can’t be replayed, it can’t be trusted
+
+I prefer **clear contracts over clever abstractions**  
+and **predictable systems over impressive diagrams**.
+
+---
+
+### Live activity
+
+<p align="center">
+  <img src="https://github.com/xanboy/xanboy/raw/output/github-contribution-grid-snake.svg" alt="contribution activity" />
+</p>
+
+---
+
+### Reach me
+
 <p align="center">
   <a href="https://github.com/xanboy">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-xanboy-111827?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-xanboy-020617?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/PASTE_YOUR_LINKEDIN_HERE/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:PASTE_YOUR_EMAIL">
-    <img alt="Email" src="https://img.shields.io/badge/Email-Contact-374151?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
-<br/>
-
-<!-- QUICK VALUE -->
 <p align="center">
-  I build <b>production-grade integrations</b>, <b>cloud-native backend systems</b>, and <b>AI-enabled analytics</b> that connect enterprise platforms, APIs, and data pipelines — with reliability, security, and measurable business impact.
+  <sub>Calm systems. Clear data. No surprises.</sub>
 </p>
-
----
-
-## What I do
-
-- **Enterprise Integrations** → APIs, webhooks, secure ingestion, idempotency/dedupe, retry-safe delivery  
-- **Cloud Systems** → deployment, secrets, service identity/IAM, operational visibility  
-- **Data & Analytics** → SQL, modeling for reporting, business-facing metrics  
-- **Applied AI** → computer vision, time series ML, recommendation systems  
-
----
-
-## Tech Stack (Current)
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,docker,gcp,githubactions,github,git,linux,postman,python,java&perline=12" />
-</p>
-
-## Tech Stack (Next)
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,vercel&perline=12" />
-</p>
-
----
-
-## Selected Work
-
-### Enterprise Commerce Integration (Private)
-- Secure webhook ingestion (**request validation + auth boundaries + secret handling**)  
-- Idempotency + dedupe to prevent duplicate processing  
-- Retry-safe delivery using an outbox-style pattern  
-- Cloud deployment with managed database + secret manager + IAM  
-
-**Core stack:** Node.js · Express · PostgreSQL · Cloud Run · Cloud SQL · Secret Manager · IAM
-
----
-
-### Emotion-Aware Music Recommendation (Computer Vision)
-- Webcam-based facial emotion detection (CNN approach)  
-- Anti-spoofing concepts to reduce non-live input  
-- Mood-based recommendation logic  
-
-**Core stack:** Python · OpenCV · TensorFlow/Keras
-
----
-
-### Climate Change Prediction (Time Series ML)
-- Time-series analysis on global temperature datasets  
-- Trend-based forecasting workflow  
-- Visualization across configurable windows (e.g., 5–10 years)  
-
-**Core stack:** Python · Pandas · NumPy · Matplotlib · Jupyter
-
----
-
-### Security & Cryptography (Academic)
-- Image steganography for secure information hiding  
-- Applied cryptography fundamentals  
-- Security-aware application design  
-
-**Core stack:** Java · Cryptography fundamentals
-
----
-
-## Live Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xanboy&show_icons=true&hide_title=true&hide_rank=false&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://streak-stats.demolab.com?user=xanboy" height="150" />
-</p>
-
-<!-- Snake (generated by workflow below) -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xanboy/xanboy/main/dist/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xanboy/xanboy/main/dist/github-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/xanboy/xanboy/main/dist/github-snake.svg" />
-  </picture>
-</p>
-
----
-
-📫 **Connect**
-- GitHub: https://github.com/xanboy
-- LinkedIn: https://www.linkedin.com/in/PASTE_YOUR_LINKEDIN_HERE/
