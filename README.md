@@ -17,7 +17,7 @@
   <a href="https://github.com/xanboy" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/github/ffffff" height="26" alt="GitHub" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/linkedin.com/in/mohammedbasheer25" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/[linkedin.com/in/mohammedbasheer25](https://www.linkedin.com/in/mohammedbasheer25/)" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/linkedin/ffffff" height="26" alt="LinkedIn" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:mb8332947@gmail.com" target="_blank" rel="noreferrer">
