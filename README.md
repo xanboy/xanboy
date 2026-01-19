@@ -16,9 +16,6 @@
   />
 </p>
 
-<p align="center" style="text-decoration:none;">
-
-
 <p align="center">
   <a href="https://github.com/xanboy" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/github/ffffff" height="26" alt="GitHub"/>
