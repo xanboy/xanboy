@@ -21,8 +21,8 @@
     <img src="https://cdn.simpleicons.org/github/ffffff" height="26" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mohammedbasheer25" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/linkedin/ffffff" height="26" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/mohammedbasheer25">
+    <img height="26" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" style="filter: invert(1);" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:mb8332947@gmail.com" target="_blank" rel="noreferrer">
