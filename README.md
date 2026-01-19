@@ -24,10 +24,10 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mohammedbasheer25" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/linkedin/ffffff" height="26" alt="LinkedIn"/>
+    <img src="https://www.streamlinehq.com/icons/download/linkedin-in--29494/ffffff" height="26" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:your@email.com" target="_blank" rel="noreferrer">
+  <a href="mailto:mb8332947@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/gmail/ffffff" height="26" alt="Email"/>
   </a>
 </p>
