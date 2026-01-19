@@ -18,17 +18,18 @@
 
 <p align="center" style="text-decoration:none;">
 
+
 <p align="center">
-  <a href="https://github.com/xanboy">
-    <img height="26" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" style="filter: invert(1);" />
+  <a href="https://github.com/xanboy" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/github/ffffff" height="26" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mohammedbasheer25">
-    <img height="26" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" style="filter: invert(1);" />
+  <a href="https://www.linkedin.com/in/mohammedbasheer25" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/linkedin/ffffff" height="26" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:your@email.com">
-    <img height="26" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" style="filter: invert(1);" />
+  <a href="mailto:your@email.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/gmail/ffffff" height="26" alt="Email"/>
   </a>
 </p>
 
