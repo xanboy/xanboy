@@ -23,9 +23,9 @@
     <img src="https://cdn.simpleicons.org/github/ffffff" height="26" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mohammedbasheer25" target="_blank" rel="noreferrer">
-    <img src="https://www.streamlinehq.com/icons/download/linkedin-in--29494/ffffff" height="26" alt="LinkedIn"/>
-  </a>
+ <a href="https://www.linkedin.com/in/mohammedbasheer25" target="_blank" rel="noreferrer">
+  <img alt="LinkedIn" height="26" src="https://img.shields.io/badge/-LinkedIn-0b0f19?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:mb8332947@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/gmail/ffffff" height="26" alt="Email"/>
