@@ -2,7 +2,13 @@
      HERO
 ========================= -->
 
-<h1 align="center">Mohammed Basheer</h1>
+<p align="center">
+  <img
+    alt="Mohammed Basheer"
+    src="https://capsule-render.vercel.app/api?type=transparent&color=0:0b0f19,100:0b0f19&height=115&section=header&text=Mohammed%20Basheer&fontSize=60&fontColor=ffffff&fontAlignY=55&animation=fadeIn"
+  />
+</p
+     
 <p align="center">
   <img
     alt="Typing"
@@ -12,15 +18,15 @@
 
 <p align="center">
   <a href="https://github.com/xanboy" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/github/ffffff" height="26" />
+    <img src="https://cdn.simpleicons.org/github/ffffff" height="26" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mohammedbasheer25" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/linkedin/ffffff" height="26" />
+    <img src="https://cdn.simpleicons.org/linkedin/ffffff" height="26" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:your@email.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/gmail/ffffff" height="26" />
+  <a href="mailto:mb8332947@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/gmail/ffffff" height="26" alt="Email"/>
   </a>
 </p>
 
@@ -31,15 +37,14 @@
 ---
 
 <p align="center">
-  I engineer <b>production-grade integrations</b> and <b>analytics-ready data flows</b>—transforming distributed events (orders, payments, refunds) into trustworthy, queryable signals.
+  I engineer <b>production-grade integrations</b> and <b>analytics-ready data flows</b>—turning distributed events (orders, payments, refunds) into trustworthy, queryable signals.
   I operate at the intersection of <b>cloud systems</b>, <b>secure API boundaries</b>, <b>data modeling</b>, and <b>operational reliability</b>—optimized for correctness, auditability, and measurable business outcomes.
 </p>
 
 ---
 
-## Tooling & Tech
+## Tooling & Tech (current + near-future)
 
-<!-- ROW 1 -->
 <p align="center">
   <a href="https://nodejs.org" target="_blank"><img src="https://cdn.simpleicons.org/nodedotjs/ffffff" height="30"/></a>&nbsp;&nbsp;
   <a href="https://expressjs.com" target="_blank"><img src="https://cdn.simpleicons.org/express/ffffff" height="30"/></a>&nbsp;&nbsp;
@@ -50,7 +55,6 @@
   <a href="https://git-scm.com" target="_blank"><img src="https://cdn.simpleicons.org/git/ffffff" height="30"/></a>
 </p>
 
-<!-- ROW 2 -->
 <p align="center">
   <a href="https://www.python.org" target="_blank"><img src="https://cdn.simpleicons.org/python/ffffff" height="30"/></a>&nbsp;&nbsp;
   <a href="https://jupyter.org" target="_blank"><img src="https://cdn.simpleicons.org/jupyter/ffffff" height="30"/></a>&nbsp;&nbsp;
@@ -61,7 +65,6 @@
   <a href="https://opencv.org" target="_blank"><img src="https://cdn.simpleicons.org/opencv/ffffff" height="30"/></a>
 </p>
 
-<!-- ROW 3 (Frontend + Testing + Infra) -->
 <p align="center">
   <a href="https://react.dev" target="_blank"><img src="https://cdn.simpleicons.org/react/ffffff" height="30"/></a>&nbsp;&nbsp;
   <a href="https://nextjs.org" target="_blank"><img src="https://cdn.simpleicons.org/nextdotjs/ffffff" height="30"/></a>&nbsp;&nbsp;
