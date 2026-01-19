@@ -17,16 +17,45 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/xanboy" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/github/ffffff" height="26" alt="GitHub"/>
+  <!-- GitHub -->
+  <a href="https://github.com/xanboy" target="_blank" rel="noreferrer" style="text-decoration:none;">
+    <img
+      src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg"
+      width="26"
+      height="26"
+      style="vertical-align:middle;"
+      alt="GitHub"
+    />
   </a>
+
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mohammedbasheer25">
-    <img height="26" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" style="filter: invert(1);" />
+
+  <!-- LinkedIn (INLINE SVG — FIXED) -->
+  <a href="https://www.linkedin.com/in/mohammedbasheer25" target="_blank" rel="noreferrer" style="text-decoration:none;">
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      viewBox="0 0 24 24"
+      width="26"
+      height="26"
+      fill="#ffffff"
+      style="vertical-align:middle;"
+      aria-label="LinkedIn"
+    >
+      <path fill-rule="evenodd" d="M3.5 6a2.5 2.5 0 1 0 0 -5 2.5 2.5 0 0 0 0 5ZM6 23V8H1v15h5ZM8 8h4.5v1.946C13.216 9.005 14.746 8 17.5 8c4.33 0 5.5 4.32 5.5 7v8h-5v-8c0 -1 -0.5 -3 -2.5 -3 -1.42 0 -2.42 1.008 -3 1.951V23H8V8Z" clip-rule="evenodd"/>
+    </svg>
   </a>
+
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:mb8332947@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/gmail/ffffff" height="26" alt="Email"/>
+
+  <!-- Email -->
+  <a href="mailto:mb8332947@gmail.com" target="_blank" rel="noreferrer" style="text-decoration:none;">
+    <img
+      src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg"
+      width="26"
+      height="26"
+      style="vertical-align:middle;"
+      alt="Email"
+    />
   </a>
 </p>
 
