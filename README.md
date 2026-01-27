@@ -43,7 +43,7 @@
 
 ---
 
-## Tooling & Tech (current + near-future)
+## Tooling & Tech 
 
 <p align="center">
   <a href="https://nodejs.org" target="_blank"><img src="https://cdn.simpleicons.org/nodedotjs/ffffff" height="30"/></a>&nbsp;&nbsp;
