@@ -12,8 +12,7 @@
 <p align="center">
   <img
     alt="Typing"
-    src="https://readme-typing-svg.demolab.com?font=Satoshi&weight=650&size=18&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&width=760&lines=Enterprise+Data+%C2%B7+AI+%C2%B7+Integration+Engineering;Secure+APIs+%C2%B7+Event+Pipelines+%C2%B7+Analytics-Ready+Systems;Built+for+production.+Designed+for+scale."
-  />
+    src="https://readme-typing-svg.demolab.com?font=Satoshi&weight=650&size=18&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&width=760&lines=Enterprise+Data+%C2%B7+AI+%C2%B7+Integration+Engineering;Secure+APIs+%C2%B7+Event+Pipelines+%C2%B7+Analytics-Ready+Systems;Built+for+production.+Designed+for+scale."/>
 </p>
 
 <p align="center">
