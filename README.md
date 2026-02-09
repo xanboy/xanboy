@@ -64,145 +64,49 @@
 
 <h2 align="center">Tooling &amp; Tech</h2>
 
-<table align="center">
-  <!-- Row 1 (5 icons) -->
-  <tr>
-    <td width="28"></td>
-    <td align="center">
-      <a href="https://nodejs.org" target="_blank">
-        <img src="https://cdn.simpleicons.org/nodedotjs/ffffff" height="34" style="vertical-align:middle;" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://expressjs.com" target="_blank">
-        <img src="https://cdn.simpleicons.org/express/ffffff" height="34" style="vertical-align:middle;" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.python.org" target="_blank">
-        <img src="https://cdn.simpleicons.org/python/ffffff" height="34" style="vertical-align:middle;" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.postgresql.org" target="_blank">
-        <img src="https://cdn.simpleicons.org/postgresql/ffffff" height="34" style="vertical-align:middle;" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://numpy.org" target="_blank">
-        <img src="https://cdn.simpleicons.org/numpy/ffffff" height="34" style="vertical-align:middle;" />
-      </a>
-    </td>
-    <td width="28"></td>
-  </tr>
+<!-- Core Runtime & Backend -->
+<p align="center">
+  <a href="https://nodejs.org" target="_blank"><img src="https://cdn.simpleicons.org/nodedotjs/ffffff" height="30" style="vertical-align:middle;" /></a>&nbsp;&nbsp;
+  <a href="https://expressjs.com" target="_blank"><img src="https://cdn.simpleicons.org/express/ffffff" height="30" style="vertical-align:middle;" /></a>&nbsp;&nbsp;
+  <a href="https://www.python.org" target="_blank"><img src="https://cdn.simpleicons.org/python/ffffff" height="30" style="vertical-align:middle;" /></a>&nbsp;&nbsp;
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://cdn.simpleicons.org/postgresql/ffffff" height="30" style="vertical-align:middle;" /></a>
+</p>
 
-  <tr><td colspan="7" height="10"></td></tr>
+<!-- Data & Analytics -->
+<p align="center">
+  <a href="https://numpy.org" target="_blank"><img src="https://cdn.simpleicons.org/numpy/ffffff" height="30" style="vertical-align:middle;" /></a>&nbsp;&nbsp;
+  <a href="https://pandas.pydata.org" target="_blank"><img src="https://cdn.simpleicons.org/pandas/ffffff" height="30" style="vertical-align:middle;" /></a>&nbsp;&nbsp;
+  <a href="https://jupyter.org" target="_blank"><img src="https://cdn.simpleicons.org/jupyter/ffffff" height="30" style="vertical-align:middle;" /></a>
+</p>
 
-  <!-- Row 2 (4 icons, shifted right for hex pattern) -->
-  <tr>
-    <td width="90"></td>
-    <td align="center">
-      <a href="https://pandas.pydata.org" target="_blank">
-        <img src="https://cdn.simpleicons.org/pandas/ffffff" height="34" style="vertical-align:middle;" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://jupyter.org" target="_blank">
-        <img src="https://cdn.simpleicons.org/jupyter/ffffff" height="34" style="vertical-align:middle;" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://react.dev" target="_blank">
-        <img src="https://cdn.simpleicons.org/react/ffffff" height="34" style="vertical-align:middle;" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://nextjs.org" target="_blank">
-        <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" height="34" style="vertical-align:middle;" />
-      </a>
-    </td>
-    <td width="90"></td>
-  </tr>
+<!-- Frontend -->
+<p align="center">
+  <a href="https://react.dev" target="_blank"><img src="https://cdn.simpleicons.org/react/ffffff" height="30" style="vertical-align:middle;" /></a>&nbsp;&nbsp;
+  <a href="https://nextjs.org" target="_blank"><img src="https://cdn.simpleicons.org/nextdotjs/ffffff" height="30" style="vertical-align:middle;" /></a>&nbsp;&nbsp;
+  <a href="https://tailwindcss.com" target="_blank"><img src="https://cdn.simpleicons.org/tailwindcss/ffffff" height="30" style="vertical-align:middle;" /></a>
+</p>
 
-  <tr><td colspan="7" height="10"></td></tr>
+<!-- DevOps & Infra -->
+<p align="center">
+  <a href="https://www.docker.com" target="_blank"><img src="https://cdn.simpleicons.org/docker/ffffff" height="30" style="vertical-align:middle;" /></a>&nbsp;&nbsp;
+  <a href="https://cloud.google.com" target="_blank"><img src="https://cdn.simpleicons.org/googlecloud/ffffff" height="30" style="vertical-align:middle;" /></a>&nbsp;&nbsp;
+  <a href="https://www.terraform.io" target="_blank"><img src="https://cdn.simpleicons.org/terraform/ffffff" height="30" style="vertical-align:middle;" /></a>
+</p>
 
-  <!-- Row 3 (5 icons) -->
-  <tr>
-    <td width="28"></td>
-    <td align="center">
-      <a href="https://tailwindcss.com" target="_blank">
-        <img src="https://cdn.simpleicons.org/tailwindcss/ffffff" height="34" style="vertical-align:middle;" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.docker.com" target="_blank">
-        <img src="https://cdn.simpleicons.org/docker/ffffff" height="34" style="vertical-align:middle;" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://cloud.google.com" target="_blank">
-        <img src="https://cdn.simpleicons.org/googlecloud/ffffff" height="34" style="vertical-align:middle;" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.terraform.io" target="_blank">
-        <img src="https://cdn.simpleicons.org/terraform/ffffff" height="34" style="vertical-align:middle;" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://kafka.apache.org" target="_blank">
-        <img src="https://cdn.simpleicons.org/apachekafka/ffffff" height="34" style="vertical-align:middle;" />
-      </a>
-    </td>
-    <td width="28"></td>
-  </tr>
+<!-- Testing & Quality -->
+<p align="center">
+  <a href="https://pytest.org" target="_blank"><img src="https://cdn.simpleicons.org/pytest/ffffff" height="30" style="vertical-align:middle;" /></a>&nbsp;&nbsp;
+  <a href="https://www.selenium.dev" target="_blank"><img src="https://cdn.simpleicons.org/selenium/ffffff" height="30" style="vertical-align:middle;" /></a>
+</p>
 
-  <tr><td colspan="7" height="10"></td></tr>
-
-  <!-- Row 4 (4 icons, shifted right) -->
-  <tr>
-    <td width="90"></td>
-    <td align="center">
-      <a href="https://swagger.io/specification/" target="_blank">
-        <img src="https://cdn.simpleicons.org/swagger/ffffff" height="34" style="vertical-align:middle;" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.postman.com" target="_blank">
-        <img src="https://cdn.simpleicons.org/postman/ffffff" height="34" style="vertical-align:middle;" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.atlassian.com/software/jira" target="_blank">
-        <img src="https://cdn.simpleicons.org/jira/ffffff" height="34" style="vertical-align:middle;" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.atlassian.com/software/confluence" target="_blank">
-        <img src="https://cdn.simpleicons.org/confluence/ffffff" height="34" style="vertical-align:middle;" />
-      </a>
-    </td>
-    <td width="90"></td>
-  </tr>
-
-  <tr><td colspan="7" height="10"></td></tr>
-
-  <!-- Row 5 (2 icons centered, shifted a bit for symmetry) -->
-  <tr>
-    <td width="140"></td>
-    <td align="center">
-      <a href="https://pytest.org" target="_blank">
-        <img src="https://cdn.simpleicons.org/pytest/ffffff" height="34" style="vertical-align:middle;" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.selenium.dev" target="_blank">
-        <img src="https://cdn.simpleicons.org/selenium/ffffff" height="34" style="vertical-align:middle;" />
-      </a>
-    </td>
-    <td width="140"></td>
-  </tr>
-</table>
+<!-- Integration & Collaboration -->
+<p align="center">
+  <a href="https://kafka.apache.org" target="_blank"><img src="https://cdn.simpleicons.org/apachekafka/ffffff" height="30" style="vertical-align:middle;" /></a>&nbsp;&nbsp;
+  <a href="https://swagger.io/specification/" target="_blank"><img src="https://cdn.simpleicons.org/swagger/ffffff" height="30" style="vertical-align:middle;" /></a>&nbsp;&nbsp;
+  <a href="https://www.postman.com" target="_blank"><img src="https://cdn.simpleicons.org/postman/ffffff" height="30" style="vertical-align:middle;" /></a>&nbsp;&nbsp;
+  <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://cdn.simpleicons.org/jira/ffffff" height="30" style="vertical-align:middle;" /></a>&nbsp;&nbsp;
+  <a href="https://www.atlassian.com/software/confluence" target="_blank"><img src="https://cdn.simpleicons.org/confluence/ffffff" height="30" style="vertical-align:middle;" /></a>
+</p>
 
 <p align="center">
   <sub><b>Stack evolves. Architecture principles don’t.</b></sub>
