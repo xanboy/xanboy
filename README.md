@@ -18,31 +18,39 @@
 
 <!-- Socials -->
 <p align="center">
+  <!-- GitHub: Simple Icons, forced white, underline fully removed -->
   <a href="https://github.com/xanboy"
      rel="noreferrer"
      style="text-decoration:none; display:inline-block; line-height:0;">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg"
-         height="26"
-         alt="GitHub"
-         style="vertical-align:middle; filter:invert(1) grayscale(1);" />
+    <img
+      src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg"
+      height="26"
+      alt="GitHub"
+      style="vertical-align:middle; filter:invert(1) grayscale(1);" />
   </a>
   &nbsp;&nbsp;&nbsp;
+
+  <!-- LinkedIn: unchanged -->
   <a href="https://www.linkedin.com/in/mohammedbasheer25"
      rel="noreferrer"
      style="text-decoration:none; display:inline-block; line-height:0;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-         height="26"
-         alt="LinkedIn"
-         style="vertical-align:middle;" />
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+      height="26"
+      alt="LinkedIn"
+      style="vertical-align:middle;" />
   </a>
   &nbsp;&nbsp;&nbsp;
+
+  <!-- Email: unchanged -->
   <a href="mailto:mb8332947@gmail.com"
      rel="noreferrer"
      style="text-decoration:none; display:inline-block; line-height:0;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
-         height="26"
-         alt="Email"
-         style="vertical-align:middle;" />
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
+      height="26"
+      alt="Email"
+      style="vertical-align:middle;" />
   </a>
 </p>
 
