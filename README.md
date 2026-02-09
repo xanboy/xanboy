@@ -17,18 +17,31 @@
 </p>
 
 <p align="center">
-  <!-- Social: Devicon (as requested) -->
-  <a href="https://github.com/xanboy" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="26" alt="GitHub" style="vertical-align:middle;" />
+  <a href="https://github.com/xanboy"
+     rel="noreferrer"
+     style="text-decoration:none; display:inline-block; line-height:0;">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg"
+         height="26"
+         alt="GitHub"
+         style="vertical-align:middle; filter:invert(1) grayscale(1);" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mohammedbasheer25" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="26" alt="LinkedIn" style="vertical-align:middle;" />
+  <a href="https://www.linkedin.com/in/mohammedbasheer25"
+     rel="noreferrer"
+     style="text-decoration:none; display:inline-block; line-height:0;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         height="26"
+         alt="LinkedIn"
+         style="vertical-align:middle;" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:your@email.com" rel="noreferrer">
-    <!-- Devicon doesn't provide a "gmail" icon; using "google" as closest available within Devicon per your constraint -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="26" alt="Email" style="vertical-align:middle;" />
+  <a href="mailto:your@email.com"
+     rel="noreferrer"
+     style="text-decoration:none; display:inline-block; line-height:0;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
+         height="26"
+         alt="Email"
+         style="vertical-align:middle;" />
   </a>
 </p>
 
