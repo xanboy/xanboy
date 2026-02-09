@@ -18,15 +18,15 @@
 
 <p align="center">
   <a href="https://github.com/xanboy" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/github/ffffff" height="26" alt="GitHub" />
+    <img src="https://cdn.simpleicons.org/github/ffffff" height="26" alt="GitHub" style="vertical-align:middle;" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mohammedbasheer25" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/light/linkedin.svg" height="26" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/light/linkedin.svg" height="26" alt="LinkedIn" style="vertical-align:middle;" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:your@email.com" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/gmail/ffffff" height="26" alt="Email" />
+    <img src="https://cdn.simpleicons.org/gmail/ffffff" height="26" alt="Email" style="vertical-align:middle;" />
   </a>
 </p>
 
@@ -47,33 +47,50 @@
 
 <h2 align="center">Tooling &amp; Tech</h2>
 
+<!-- NOTE:
+     To fix misalignment without changing layout, every icon uses:
+     - same height
+     - style="vertical-align:middle;"
+     - consistent spacing with &nbsp;&nbsp;
+-->
+
 <p align="center">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/nodedotjs/ffffff" height="30" alt="Node.js" /></a>&nbsp;&nbsp;
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/express/ffffff" height="30" alt="Express" /></a>&nbsp;&nbsp;
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/postgresql/ffffff" height="30" alt="PostgreSQL" /></a>&nbsp;&nbsp;
-  <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" height="30" alt="Oracle" /></a>&nbsp;&nbsp;
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/googlecloud/ffffff" height="30" alt="Google Cloud" /></a>&nbsp;&nbsp;
-  <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/docker/ffffff" height="30" alt="Docker" /></a>&nbsp;&nbsp;
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/git/ffffff" height="30" alt="Git" /></a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/nodedotjs/ffffff" height="30" alt="Node.js" style="vertical-align:middle;" /></a>&nbsp;&nbsp;
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/express/ffffff" height="30" alt="Express" style="vertical-align:middle;" /></a>&nbsp;&nbsp;
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/postgresql/ffffff" height="30" alt="PostgreSQL" style="vertical-align:middle;" /></a>&nbsp;&nbsp;
+  <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/oracle/ffffff" height="30" alt="Oracle" style="vertical-align:middle;" /></a>&nbsp;&nbsp;
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/googlecloud/ffffff" height="30" alt="Google Cloud" style="vertical-align:middle;" /></a>&nbsp;&nbsp;
+  <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/docker/ffffff" height="30" alt="Docker" style="vertical-align:middle;" /></a>&nbsp;&nbsp;
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/git/ffffff" height="30" alt="Git" style="vertical-align:middle;" /></a>
 </p>
 
 <p align="center">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/python/ffffff" height="30" alt="Python" /></a>&nbsp;&nbsp;
-  <a href="https://jupyter.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/jupyter/ffffff" height="30" alt="Jupyter" /></a>&nbsp;&nbsp;
-  <a href="https://numpy.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/numpy/ffffff" height="30" alt="NumPy" /></a>&nbsp;&nbsp;
-  <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/pandas/ffffff" height="30" alt="pandas" /></a>&nbsp;&nbsp;
-  <a href="https://matplotlib.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="30" alt="Matplotlib" /></a>&nbsp;&nbsp;
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/tensorflow/ffffff" height="30" alt="TensorFlow" /></a>&nbsp;&nbsp;
-  <a href="https://opencv.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/opencv/ffffff" height="30" alt="OpenCV" /></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/python/ffffff" height="30" alt="Python" style="vertical-align:middle;" /></a>&nbsp;&nbsp;
+  <a href="https://jupyter.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/jupyter/ffffff" height="30" alt="Jupyter" style="vertical-align:middle;" /></a>&nbsp;&nbsp;
+  <a href="https://numpy.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/numpy/ffffff" height="30" alt="NumPy" style="vertical-align:middle;" /></a>&nbsp;&nbsp;
+  <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/pandas/ffffff" height="30" alt="pandas" style="vertical-align:middle;" /></a>&nbsp;&nbsp;
+  <a href="https://matplotlib.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/matplotlib/ffffff" height="30" alt="Matplotlib" style="vertical-align:middle;" /></a>&nbsp;&nbsp;
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/tensorflow/ffffff" height="30" alt="TensorFlow" style="vertical-align:middle;" /></a>&nbsp;&nbsp;
+  <a href="https://opencv.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/opencv/ffffff" height="30" alt="OpenCV" style="vertical-align:middle;" /></a>
 </p>
 
 <p align="center">
-  <a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/react/ffffff" height="30" alt="React" /></a>&nbsp;&nbsp;
-  <a href="https://nextjs.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/nextdotjs/ffffff" height="30" alt="Next.js" /></a>&nbsp;&nbsp;
-  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/tailwindcss/ffffff" height="30" alt="Tailwind CSS" /></a>&nbsp;&nbsp;
-  <a href="https://pytest.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/pytest/ffffff" height="30" alt="pytest" /></a>&nbsp;&nbsp;
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/selenium/ffffff" height="30" alt="Selenium" /></a>&nbsp;&nbsp;
-  <a href="https://www.terraform.io" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/terraform/ffffff" height="30" alt="Terraform" /></a>
+  <a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/react/ffffff" height="30" alt="React" style="vertical-align:middle;" /></a>&nbsp;&nbsp;
+  <a href="https://nextjs.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/nextdotjs/ffffff" height="30" alt="Next.js" style="vertical-align:middle;" /></a>&nbsp;&nbsp;
+  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/tailwindcss/ffffff" height="30" alt="Tailwind CSS" style="vertical-align:middle;" /></a>&nbsp;&nbsp;
+  <a href="https://pytest.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/pytest/ffffff" height="30" alt="pytest" style="vertical-align:middle;" /></a>&nbsp;&nbsp;
+  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/selenium/ffffff" height="30" alt="Selenium" style="vertical-align:middle;" /></a>&nbsp;&nbsp;
+  <a href="https://www.terraform.io" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/terraform/ffffff" height="30" alt="Terraform" style="vertical-align:middle;" /></a>
+</p>
+
+<!-- Added "work tooling" row (uniform + minimal, same layout) -->
+<p align="center">
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/jira/ffffff" height="30" alt="Jira" style="vertical-align:middle;" /></a>&nbsp;&nbsp;
+  <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/confluence/ffffff" height="30" alt="Confluence" style="vertical-align:middle;" /></a>&nbsp;&nbsp;
+  <a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/postman/ffffff" height="30" alt="Postman" style="vertical-align:middle;" /></a>&nbsp;&nbsp;
+  <a href="https://swagger.io/specification/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/swagger/ffffff" height="30" alt="Swagger / OpenAPI" style="vertical-align:middle;" /></a>&nbsp;&nbsp;
+  <a href="https://kafka.apache.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/apachekafka/ffffff" height="30" alt="Apache Kafka" style="vertical-align:middle;" /></a>&nbsp;&nbsp;
+  <a href="https://www.elastic.co/elasticsearch/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/elasticsearch/ffffff" height="30" alt="Elasticsearch" style="vertical-align:middle;" /></a>
 </p>
 
 <p align="center">
