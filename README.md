@@ -17,16 +17,18 @@
 </p>
 
 <p align="center">
+  <!-- Social: Devicon (as requested) -->
   <a href="https://github.com/xanboy" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/github/ffffff" height="26" style="vertical-align:middle;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="26" alt="GitHub" style="vertical-align:middle;" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mohammedbasheer25" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/light/linkedin.svg" height="26" style="vertical-align:middle;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="26" alt="LinkedIn" style="vertical-align:middle;" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:your@email.com" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/gmail/ffffff" height="26" style="vertical-align:middle;" />
+    <!-- Devicon doesn't provide a "gmail" icon; using "google" as closest available within Devicon per your constraint -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="26" alt="Email" style="vertical-align:middle;" />
   </a>
 </p>
 
@@ -36,44 +38,67 @@
 
 ---
 
+<p align="center">
+  I engineer <b>production-grade integrations</b> and <b>analytics-ready data flows</b>—turning distributed events
+  (orders, payments, refunds) into trustworthy, queryable signals. I operate at the intersection of <b>cloud
+  systems</b>, <b>secure API boundaries</b>, <b>data modeling</b>, and <b>operational reliability</b>—optimized for
+  correctness, auditability, and measurable business outcomes.
+</p>
+
+---
+
 <h2 align="center">Tooling &amp; Tech</h2>
 
+<!-- NOTE:
+     To fix misalignment without changing layout, every icon uses:
+     - same height
+     - style="vertical-align:middle;"
+     - consistent spacing with &nbsp;&nbsp;
+     - every icon is clickable and points to the official site
+-->
+
+<!-- Re-org Row 1: Backend / Runtime / Web -->
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" style="vertical-align:middle; filter:invert(1) grayscale(1);" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" style="vertical-align:middle; filter:invert(1) grayscale(1);" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" style="vertical-align:middle; filter:invert(1) grayscale(1);" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" style="vertical-align:middle; filter:invert(1) grayscale(1);" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" style="vertical-align:middle; filter:invert(1) grayscale(1);" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" style="vertical-align:middle; filter:invert(1) grayscale(1);" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" style="vertical-align:middle; filter:invert(1) grayscale(1);" />
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/nodedotjs/ffffff" height="30" alt="Node.js" style="vertical-align:middle;" /></a>&nbsp;&nbsp;
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/express/ffffff" height="30" alt="Express" style="vertical-align:middle;" /></a>&nbsp;&nbsp;
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/git/ffffff" height="30" alt="Git" style="vertical-align:middle;" /></a>&nbsp;&nbsp;
+  <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/docker/ffffff" height="30" alt="Docker" style="vertical-align:middle;" /></a>&nbsp;&nbsp;
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/googlecloud/ffffff" height="30" alt="Google Cloud" style="vertical-align:middle;" /></a>&nbsp;&nbsp;
+  <a href="https://www.terraform.io" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/terraform/ffffff" height="30" alt="Terraform" style="vertical-align:middle;" /></a>
 </p>
 
+<!-- Re-org Row 2: Data / Analytics -->
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" style="vertical-align:middle; filter:invert(1) grayscale(1);" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" style="vertical-align:middle; filter:invert(1) grayscale(1);" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" style="vertical-align:middle; filter:invert(1) grayscale(1);" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" style="vertical-align:middle; filter:invert(1) grayscale(1);" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="30" style="vertical-align:middle; filter:invert(1) grayscale(1);" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" style="vertical-align:middle; filter:invert(1) grayscale(1);" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" style="vertical-align:middle; filter:invert(1) grayscale(1);" />
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/postgresql/ffffff" height="30" alt="PostgreSQL" style="vertical-align:middle;" /></a>&nbsp;&nbsp;
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/python/ffffff" height="30" alt="Python" style="vertical-align:middle;" /></a>&nbsp;&nbsp;
+  <a href="https://jupyter.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/jupyter/ffffff" height="30" alt="Jupyter" style="vertical-align:middle;" /></a>&nbsp;&nbsp;
+  <a href="https://numpy.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/numpy/ffffff" height="30" alt="NumPy" style="vertical-align:middle;" /></a>&nbsp;&nbsp;
+  <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/pandas/ffffff" height="30" alt="pandas" style="vertical-align:middle;" /></a>&nbsp;&nbsp;
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/tensorflow/ffffff" height="30" alt="TensorFlow" style="vertical-align:middle;" /></a>&nbsp;&nbsp;
+  <a href="https://opencv.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/opencv/ffffff" height="30" alt="OpenCV" style="vertical-align:middle;" /></a>
 </p>
 
+<!-- Re-org Row 3: Frontend -->
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" style="vertical-align:middle; filter:invert(1) grayscale(1);" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" style="vertical-align:middle; filter:invert(1) grayscale(1);" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" style="vertical-align:middle; filter:invert(1) grayscale(1);" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="30" style="vertical-align:middle; filter:invert(1) grayscale(1);" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" style="vertical-align:middle; filter:invert(1) grayscale(1);" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" style="vertical-align:middle; filter:invert(1) grayscale(1);" />
+  <a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/react/ffffff" height="30" alt="React" style="vertical-align:middle;" /></a>&nbsp;&nbsp;
+  <a href="https://nextjs.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/nextdotjs/ffffff" height="30" alt="Next.js" style="vertical-align:middle;" /></a>&nbsp;&nbsp;
+  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/tailwindcss/ffffff" height="30" alt="Tailwind CSS" style="vertical-align:middle;" /></a>
 </p>
 
+<!-- Re-org Row 4: Testing / Automation -->
 <p align="center">
-  <img src="https://cdn.simpleicons.org/jira/ffffff" height="30" style="vertical-align:middle;" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/confluence/ffffff" height="30" style="vertical-align:middle;" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/postman/ffffff" height="30" style="vertical-align:middle;" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/swagger/ffffff" height="30" style="vertical-align:middle;" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/apachekafka/ffffff" height="30" style="vertical-align:middle;" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/elasticsearch/ffffff" height="30" style="vertical-align:middle;" />
+  <a href="https://pytest.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/pytest/ffffff" height="30" alt="pytest" style="vertical-align:middle;" /></a>&nbsp;&nbsp;
+  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/selenium/ffffff" height="30" alt="Selenium" style="vertical-align:middle;" /></a>
+</p>
+
+<!-- Re-org Row 5: Work / Delivery Tooling -->
+<p align="center">
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/jira/ffffff" height="30" alt="Jira" style="vertical-align:middle;" /></a>&nbsp;&nbsp;
+  <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/confluence/ffffff" height="30" alt="Confluence" style="vertical-align:middle;" /></a>&nbsp;&nbsp;
+  <a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/postman/ffffff" height="30" alt="Postman" style="vertical-align:middle;" /></a>&nbsp;&nbsp;
+  <a href="https://swagger.io/specification/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/swagger/ffffff" height="30" alt="Swagger / OpenAPI" style="vertical-align:middle;" /></a>&nbsp;&nbsp;
+  <a href="https://kafka.apache.org" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/apachekafka/ffffff" height="30" alt="Apache Kafka" style="vertical-align:middle;" /></a>&nbsp;&nbsp;
+  <a href="https://www.elastic.co/elasticsearch/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/elasticsearch/ffffff" height="30" alt="Elasticsearch" style="vertical-align:middle;" /></a>
 </p>
 
 <p align="center">
