@@ -64,58 +64,47 @@
 
 <h2 align="center">Tooling &amp; Tech</h2>
 
-<!-- Row 1 -->
 <p align="center">
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://cdn.simpleicons.org/nodedotjs/ffffff" height="32" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/express/ffffff" height="32" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://cdn.simpleicons.org/python/ffffff" height="32" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://cdn.simpleicons.org/postgresql/ffffff" height="32" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://numpy.org" target="_blank">
-    <img src="https://cdn.simpleicons.org/numpy/ffffff" height="32" />
-  </a>
+  [<img src="https://cdn.simpleicons.org/nodedotjs/ffffff" height="32" />](https://nodejs.org)
+  &nbsp;&nbsp;&nbsp;
+  [<img src="https://cdn.simpleicons.org/express/ffffff" height="32" />](https://expressjs.com)
+  &nbsp;&nbsp;&nbsp;
+  [<img src="https://cdn.simpleicons.org/python/ffffff" height="32" />](https://www.python.org)
+  &nbsp;&nbsp;&nbsp;
+  [<img src="https://cdn.simpleicons.org/postgresql/ffffff" height="32" />](https://www.postgresql.org)
+  &nbsp;&nbsp;&nbsp;
+  [<img src="https://cdn.simpleicons.org/numpy/ffffff" height="32" />](https://numpy.org)
+  &nbsp;&nbsp;&nbsp;
+  [<img src="https://cdn.simpleicons.org/pandas/ffffff" height="32" />](https://pandas.pydata.org)
 </p>
 
-<!-- Row 2 (slightly indented = hex feel) -->
-<p align="center" style="margin-left:22px;">
-  <a href="https://pandas.pydata.org" target="_blank">
-    <img src="https://cdn.simpleicons.org/pandas/ffffff" height="32" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://jupyter.org" target="_blank">
-    <img src="https://cdn.simpleicons.org/jupyter/ffffff" height="32" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://react.dev" target="_blank">
-    <img src="https://cdn.simpleicons.org/react/ffffff" height="32" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://nextjs.org" target="_blank">
-    <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" height="32" />
-  </a>
+<p align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  [<img src="https://cdn.simpleicons.org/jupyter/ffffff" height="32" />](https://jupyter.org)
+  &nbsp;&nbsp;&nbsp;
+  [<img src="https://cdn.simpleicons.org/react/ffffff" height="32" />](https://react.dev)
+  &nbsp;&nbsp;&nbsp;
+  [<img src="https://cdn.simpleicons.org/nextdotjs/ffffff" height="32" />](https://nextjs.org)
+  &nbsp;&nbsp;&nbsp;
+  [<img src="https://cdn.simpleicons.org/tailwindcss/ffffff" height="32" />](https://tailwindcss.com)
+  &nbsp;&nbsp;&nbsp;
+  [<img src="https://cdn.simpleicons.org/docker/ffffff" height="32" />](https://www.docker.com)
+  &nbsp;&nbsp;&nbsp;
+  [<img src="https://cdn.simpleicons.org/googlecloud/ffffff" height="32" />](https://cloud.google.com)
 </p>
 
-<!-- Row 3 -->
 <p align="center">
-  <a href="https://tailwindcss.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/tailwindcss/ffffff" height="32" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.docker.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/docker/ffffff" height="32" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://cloud.google.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/googlecloud/ffffff" height="32" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.terraform.io" target="_blank">
-    <img src="https://cdn.simpleicons.org/terraform/ffffff" height="32" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://kafka.apache.org" target="_blank">
-    <img src="https://cdn.simpleicons.org/apachekafka/ffffff" height="32" />
-  </a>
+  [<img src="https://cdn.simpleicons.org/terraform/ffffff" height="32" />](https://www.terraform.io)
+  &nbsp;&nbsp;&nbsp;
+  [<img src="https://cdn.simpleicons.org/apachekafka/ffffff" height="32" />](https://kafka.apache.org)
+  &nbsp;&nbsp;&nbsp;
+  [<img src="https://cdn.simpleicons.org/swagger/ffffff" height="32" />](https://swagger.io/specification/)
+  &nbsp;&nbsp;&nbsp;
+  [<img src="https://cdn.simpleicons.org/postman/ffffff" height="32" />](https://www.postman.com)
+  &nbsp;&nbsp;&nbsp;
+  [<img src="https://cdn.simpleicons.org/jira/ffffff" height="32" />](https://www.atlassian.com/software/jira)
+  &nbsp;&nbsp;&nbsp;
+  [<img src="https://cdn.simpleicons.org/confluence/ffffff" height="32" />](https://www.atlassian.com/software/confluence)
 </p>
 
 <p align="center">
